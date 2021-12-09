@@ -1,5 +1,7 @@
 # Generating-Images-from-text-using-StyleGAN
 
+### In this project, we genereate human faces from user text input using a pre-trained StyleGAN model and CLIP (Contrastive Language–Image Pre-training).
+
 ## Envirionment setup
 After cloning this repo, enter into the folder where you cloned the repository and run the following command to create a new conda environment with all the required packages anad dependencies.
 ```console
