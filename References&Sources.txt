@@ -1,6 +1,0 @@
-https://github.com/NVlabs/stylegan2 
-https://github.com/huangzh13/StyleGAN.pytorch 
-https://github.com/openai/CLIP 
-https://githubhelp.com/YeonwooSung/GAN_Implementation#dcgan?ref=https://githubhelp.com 
-https://github.com/IIGROUP/TediGAN 
-https://towardsdatascience.com/generating-images-from-prompts-using-clip-and-stylegan-1f9ed495ddda
