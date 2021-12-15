@@ -12,7 +12,7 @@ from utils import GetFeatureMaps, transform_img, compute_loss
 
 torch.manual_seed(20)
 
-parser1 = argparse.Argumentparser1()
+parser1 = argparse.ArgumentParser()
 parser1.add_argument(
     '--output_path',
     type=str,
