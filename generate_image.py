@@ -50,7 +50,7 @@ parser1.add_argument(
     help='',
 )
 
-arguments = parser1.parse_arguments()
+arguments = parser1.parse_args()
 
 output_path = arguments.output_path
 batch_size = arguments.batch_size
